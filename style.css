@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+header {
+    background: linear-gradient(90deg, #007bff, #6610f2);
+}
+
+footer {
+    margin-top: 30px;
+}
